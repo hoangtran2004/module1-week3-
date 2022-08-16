@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+</body>
+<script>
+    let nhapso = prompt("Enter a number");
+    let str = nhapso.toString();
+    let resuilt = [str[0]]
+    for (let i = 0; i < str.length; i++) {
+        if ((str[i] % 2 === 0) && (str[i - 1] % 2 === 0)) {
+            resuilt.push('-' + str[i])
+        } else {
+            resuilt.push(str[i]);
+        }
+    }
+    document.write(resuilt.join(''))
+
+
+</script>
+</html>
