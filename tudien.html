@@ -1,11 +1,25 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
 </head>
 <body>
-Nhập từ : <input type="text">
-<button onclick="" id="demo">Dịch</button>
+
 </body>
+<script>
+    let english = ['dog', 'cat', 'lion'];
+    let vietnamese = ['cho', 'meo', 'su tu'];
+    let trans = prompt("translate");
+    let vitri = english.indexOf(trans);
+    if (trans == -1) {
+        document.write('khong co')
+    } else {
+        document.write(vietnamese[vitri])
+    }
+
+</script>
 </html>
