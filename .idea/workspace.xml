@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c95d0a6d-e362-4f6a-b9fc-f4cb311d0936" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/btdungmang1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btdungmang2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btdungmang3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tudien.html" afterDir="false" />
+    <list default="true" id="78b70071-89c1-4232-8804-b4d40a7edb2b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/OOP.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOP2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ham4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/meterfoot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/min.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/taogoiham.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btdungmang1.html" beforeDir="false" afterPath="$PROJECT_DIR$/btdungmang1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/btdungmang2.html" beforeDir="false" afterPath="$PROJECT_DIR$/btdungmang2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +32,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2DNQvbQl6TW9NmMIptAKx0DfiZI" />
+  <component name="ProjectId" id="2DYNx1BUXRhTYohz6IEJyAFuj5L" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,22 +43,19 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c95d0a6d-e362-4f6a-b9fc-f4cb311d0936" name="Changes" comment="" />
-      <created>1660537293122</created>
+      <changelist id="78b70071-89c1-4232-8804-b4d40a7edb2b" name="Changes" comment="" />
+      <created>1660872300302</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1660537293122</updated>
-      <workItem from="1660537294332" duration="1924000" />
-      <workItem from="1660545524781" duration="4493000" />
-      <workItem from="1660612590424" duration="8121000" />
-      <workItem from="1660632676296" duration="2273000" />
+      <updated>1660872300302</updated>
+      <workItem from="1660872301832" duration="10167000" />
+      <workItem from="1660891090575" duration="456000" />
     </task>
     <servers />
   </component>

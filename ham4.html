@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    function timSNT(a) {
+        let dem =0;
+        if (a < 2) {
+            alert(a + 'khong la snt')
+        } else for (let i = 2; i < a; i++) {
+            if (a % i == 0) {
+                dem++
+            }
+        }
+        if (dem > 0) {
+            alert(a + 'khong la snt')
+        } else alert(a + 'la snt')
+    }
+
+    let x = prompt('nhap so ');
+    timSNT(x);
+</script>
+</body>
+</html>

@@ -8,7 +8,16 @@
 
 </body>
 <script>
-    let myColor = ["red", "green", "white", "black"]
-    document.write(myColor.toString())
+    let str = prompt('nhap vao chuoi');
+    let arr = [];
+    for (let i = 0; i < str.length; i++) {
+        if (str[i] == str[i].toUpperCase()) {
+            arr.push(str[i].toLowerCase());
+        } else {
+            arr.push(str[i].toUpperCase())
+        }
+
+    }
+    alert(arr.join(''))
 </script>
 </html>
