@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+
+    let a = ['h', 'o','o','a','l', 'a', 'n'];
+    let get = prompt("Nhập một kí tự : ");
+    function isHave(a, get){
+        for (let i = 0; i < a.length; i++){
+            if(a[i] === get) return i;
+        }
+        return -1;
+    }
+    document.writeln(isHave(a,get));
+</script>
+</body>
+</html>
