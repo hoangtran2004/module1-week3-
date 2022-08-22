@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  function ispalindrome(a,start, end){
+    if (end < 0) return true;
+    else if (a[start] != a[end]) return false;
+    else return ispalindrome(a, start+1, end - 1);
+  }
+  let s = prompt('nhap');
+  console.log(ispalindrome(s, 0,s.length -1));
+</script>
+</body>
+</html>
